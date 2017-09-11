@@ -23,6 +23,8 @@ Step 5: Pull to local
 
 Step 6: Push to repo
 
+Step 7: Again push to repo without any changes in remote
+
 
 
 
