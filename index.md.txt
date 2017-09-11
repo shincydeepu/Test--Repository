@@ -1,8 +1,0 @@
-Test. Uploading a secnd file to remote repository using the command line
-
-
-1. Move the file to the local repository
-2. Open gitBash
-3. git add .
-4. git commit -m "Add a file to remote repo"
-5. git push origin your-branch
