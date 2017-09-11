@@ -19,6 +19,7 @@ STEP 3: Now make changes to the file in the cloned verion of the repository in t
 
 Step 4: Test
 
+Step 5: Pull to local
 
 
 
