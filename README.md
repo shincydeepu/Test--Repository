@@ -8,6 +8,10 @@ STEP 2: Clone this repository to your local computer
             Press Enter
       This will create a copy of the repository in the local computer
       
-STEP 3: 
+STEP 3: Adding a file to a repository using the command line [from local to remote repository, first time]
+            Open Gitbash in the local repository ( The file that needs to be added should be in this local repository)
+            git add . [adds the file to your local repository and stages it for commit] [To unstage : git rest HEAD your-file]
+            git commit -m "Add existing file" [Commits the tracked changes and prepares them to be pushed] [To remove/modify use git reset --soft HEAD~1 AND comit and add again]
+            git push origin your-branch [pushes the changes from local to the remote repository]
        
 
