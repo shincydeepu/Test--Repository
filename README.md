@@ -17,6 +17,8 @@ STEP 3: Now make changes to the file in the cloned verion of the repository in t
             git remote -v  [verifies the new remote url]
             git push origin master [push the changes in your local repository to git hub]
 
+Step 4: Test
+
 
 
 
