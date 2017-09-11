@@ -21,6 +21,8 @@ Step 4: Test
 
 Step 5: Pull to local
 
+Step 6: Push to repo
+
 
 
 
