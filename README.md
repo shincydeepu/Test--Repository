@@ -25,6 +25,8 @@ Step 6: Push to repo
 
 Step 7: Again push to repo without any changes in remote
 
+Step 8: I have learnt to upload the changes from local repository to the remote repository!
+
 
 
 
